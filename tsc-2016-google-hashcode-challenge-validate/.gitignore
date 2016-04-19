@@ -1,0 +1,12 @@
+spotlight.json
+.DS_Store
+.classpath
+.project
+.settings
+bin/
+target/
+dataset.json
+downloaded/
+*.zip
+*.out
+target/
